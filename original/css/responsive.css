@@ -1,0 +1,340 @@
+@media only screen and (max-width: 575px) and (min-width: 320px) {
+    .header h1 {
+        font-size: 36px;
+        line-height: 50px;
+        display: block;
+        padding: 100px 0px 0px 0px;
+        text-align: left;
+    }
+
+    h1.display-fixed-none {
+        padding-top: 15px;
+    }
+
+    .header p {
+        font-size: 14px;
+        margin-bottom: 0px;
+        padding: 10px 0px;
+        text-align: left;
+        letter-spacing: 0px;
+        line-height: 26px;
+    }
+
+    h1.cookie-privacy {
+        font-size: 32px;
+        line-height: 40px;
+        width: 100%;
+    }
+
+    p.cookie-privacy {
+        font-size: 14px;
+        margin-bottom: 0px;
+        padding: 10px 0px;
+        text-align: left;
+        letter-spacing: 0px;
+        line-height: 26px;
+        width: 100%;
+    }
+
+
+    p.trusted-bar-p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        font-size: 11px;
+        letter-spacing: 0px;
+    }
+
+    img.bar-img {
+        max-width: 100%;
+        height: auto;
+        width: 20px;
+        padding-right: 0px;
+        margin-bottom: 5px;
+    }
+
+    .c-list-item h3 {
+        font-size: 22px;
+        font-family: "Lato", sans-serif;
+        font-weight: 600;
+        line-height: 24px;
+    }
+
+    .cl-wrap h4 {
+        font-size: 12px;
+        padding: 3px 0px;
+        line-height: 18px;
+        margin-top: 10px;
+    }
+
+    .scores strong {
+        color: var(--main-color);
+        margin-right: 10px;
+        font-size: 0.85rem;
+        font-weight: 500;
+    }
+
+    .Stars {
+        margin-bottom: 8px;
+    }
+
+    .c-list-item a {
+        font-size: 14px;
+    }
+
+    .list-description h1 {
+        color: var(--main-color);
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    .list-description h3 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+
+    .list-description p {
+        font-size: 14px;
+    }
+
+    .list-description ul li {
+        font-size: 14px;
+    }
+
+    .c-list-item {
+        padding: 0px;
+    }
+
+    .cit {
+        min-height: 180px;
+    }
+
+    .cl-wrap {
+        padding: 10px;
+    }
+
+    .cl-wrap h1, .cl-wrap h2, .cl-wrap h3, .cl-wrap h4 {
+        margin-bottom: 0px;
+    }
+    
+    .cl-wrap h2 {
+        font-size: 1.4rem;
+    }
+
+    .footer p {
+        font-size: 15px;
+        color: #f3f3f3;
+    }
+
+    .footer {
+        padding: 40px 15px 30px 15px;
+    }
+
+    .sm-text {
+        font-size: 13px !important;
+    }
+   
+    .header {
+        padding: 20px 15px 15px 15px
+    }
+    
+    .m-bar {
+        padding: 5px 10px 2px 10px;
+    }
+
+    .m-bar p {
+        font-size: 10px;
+        display: grid;
+        justify-content: center;
+    }
+    
+    .m-bar p img {
+        width: 18px;
+    } 
+   
+    .main-content {
+        padding: 0px 5px 10px 5px;
+    }
+    
+    .c-content img {
+        width: 58%;
+    }
+
+    .get-btn {
+        font-size: 11px !important;
+        font-weight: 500 !important;
+        padding: 10px 0px;
+        margin-top: 10px;
+        box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+        width: 80%;
+    }
+    
+    .scores {
+        text-align: left;
+        display: block!important;
+        margin-bottom: 0;
+        color: #fff!important;
+        font-size: 0.9rem!important;
+        padding: 0px 20px;
+    }
+
+    .footer-txt {
+        padding: 30px 10px;
+    }
+
+    .footer-txt h2 {
+        font-size: 24px;
+        padding: 10px 0px 0px 0px;
+        margin-bottom: -5px;
+    }
+
+    .footer-txt h5 {
+        font-size: 22px;
+        padding: 15px 0px;
+        line-height: 36px;
+    }
+
+    .footer-txt p {
+        font-size: 14px;
+        line-height: 26px;
+        letter-spacing: 0px;
+        word-spacing: 1px;
+    }
+
+    .footer-license-images img {
+        padding: 5px 2px 25px 2px;
+        max-width: 72px;
+    }
+
+    #navbar p {
+        color: #ffffff;
+        font-family: "Poppins", sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 22px;
+        padding: 15px 10px 0px 10px;
+        letter-spacing: 0.4px;
+        word-spacing: 1px;
+    }
+
+    img.header-logo {
+        width: 42px;
+        margin-right: 2px;
+        height: auto;
+        margin-top: -3px;
+    }
+
+    .cookie-privacy-header {
+        padding: 30px 10px 20px 10px;
+    }
+}
+
+
+
+@media only screen and (max-width: 868px) and (min-width: 576px){
+    .header {
+        padding: 85px 0px 20px 0px;
+    }
+
+    .header h1 {
+        display: block;
+        line-height: 55px;
+    }
+
+    .header p {
+        padding: 15px 0px 0px 0px;
+    }
+
+    p.trusted-bar-p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .trusted-bar p {
+        font-size: 10px;
+        letter-spacing: 0px;
+        text-align: center;
+    }
+
+    img.bar-img {
+        max-width: 100%;
+        height: auto;
+        width: 18px;
+        padding-right: 0px;
+        padding-bottom: 5px;
+    }
+
+    .c-list-item h3 {
+        font-size: 17px;
+        line-height: 22px;
+        padding: 4px 8px;
+        word-spacing: 0px;
+    }
+
+    .c-list-item h4 {
+        font-size: 11px;
+        font-weight: 300;
+        color: #dbd9d9 !important;
+    }
+
+    .get-btn {
+        padding: 12px 20px;
+        width: 180px;
+        font-size: 15px !important;
+    }
+
+    .ribbon-one {
+        font-size: 10px;
+        letter-spacing: 0.2px;
+        width: 115px;
+    }
+
+    .c-list-item h1 {
+        font-size: 45px;
+    }
+
+    .get-btn {
+        padding: 12px 0px;
+        width: 180px;
+        font-size: 12px !important;
+        font-weight: 400 !important;
+    }
+}
+
+
+
+@media only screen and (max-width: 1120px) and (min-width: 869px) {
+
+    .header {
+        position: relative;
+        padding: 50px 0px 20px 0px;
+        text-align: center;
+    }
+
+    .header p {
+        padding: 15px 0px 0px 0px;
+    }
+
+    .header h1 {
+        font-size: 46px;
+        line-height: 65px;
+        display: block;
+    }
+
+    .trusted-bar p {
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+
+    h1.cookie-privacy {
+        width: 515px;
+    }
+
+    p.cookie-privacy {
+        width: 515px;
+    }
+}
