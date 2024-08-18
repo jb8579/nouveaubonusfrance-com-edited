@@ -285,11 +285,12 @@ p.trusted-bar-p {
 }
 
 .c-list-item h4 {
-    font-size: 13px;
+    font-size: 15px;
     font-family: "Poppins", sans-serif;
     font-weight: 500;
-    color: #b9b9b9 !important;
-    line-height: 21px;
+    color: #ffffff !important;
+    line-height: 26px;
+    word-spacing: 1.2px;
 }
 
 .c-content img {

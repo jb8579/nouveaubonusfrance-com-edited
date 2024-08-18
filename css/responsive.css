@@ -56,16 +56,16 @@
     }
 
     .c-list-item h3 {
-        font-size: 22px;
+        font-size: 16px;
         font-family: "Lato", sans-serif;
         font-weight: 600;
         line-height: 24px;
     }
 
     .cl-wrap h4 {
-        font-size: 12px;
+        font-size: 15px;
         padding: 3px 0px;
-        line-height: 18px;
+        line-height: 22px;
         margin-top: 10px;
     }
 
